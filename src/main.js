@@ -24,4 +24,3 @@ else {
 }
 
 console.log(`${n1} ${operator} ${n2} = ${result}`);
-}
